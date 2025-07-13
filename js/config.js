@@ -108,7 +108,7 @@ const CONFIG = {
       search: '/search?q={}',
       color: '#212121',
       icon: 'keep',
-      quickLaunch: false,
+      quickLaunch: true,
     },
     {
       category: 'Programming',
@@ -117,7 +117,7 @@ const CONFIG = {
       url: 'https://www.instapaper.com/user/login?next=/user',
       color: 'linear-gradient(135deg, #33373A, #484949)',
       icon: 'keep',
-      quickLaunch: false,
+      quickLaunch: true,
     },
     {
       category: 'Programming',
@@ -126,7 +126,7 @@ const CONFIG = {
       url: 'https://me.remy.coffee/login',
       color: 'linear-gradient(135deg, #33373A, #484949)',
       icon: 'keep',
-      quickLaunch: false,
+      quickLaunch: true,
     },
 
 
