@@ -20,7 +20,7 @@ const CONFIG = {
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: 'w3',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'General',
