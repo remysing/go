@@ -14,9 +14,9 @@ const CONFIG = {
     },
     {
       category: 'General',
-      name: 'Mail',
-      key: 'm',
-      url: 'https://gmail.com',
+      name: 'home',
+      key: 'h',
+      url: 'https://remy.coffee',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: 'mail',
