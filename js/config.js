@@ -14,12 +14,12 @@ const CONFIG = {
     },
     {
       category: 'General',
-      name: 'home',
+      name: 'Home',
       key: 'h',
       url: 'https://remy.coffee',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
-      icon: 'mail',
+      icon: 'home',
       quickLaunch: true,
     },
     {
