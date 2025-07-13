@@ -19,7 +19,7 @@ const CONFIG = {
       url: 'https://remy.coffee',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
-      icon: 'home',
+      icon: '',
       quickLaunch: true,
     },
     {
@@ -263,7 +263,7 @@ const CONFIG = {
   /**
    * Open triggered queries in a new tab.
    */
-  newTab: false,
+  newTab: true,
 
   /**
    * Dynamic overlay background colors when command domains are matched.
