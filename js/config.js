@@ -142,7 +142,7 @@ const CONFIG = {
       category: 'Programming',
       name: 'Remys Admin',
       key: 'R',
-      url: 'https://me.remy.coffee/login',
+      url: 'https://blog.remy.coffee/login',
       color: 'linear-gradient(135deg, #33373A, #484949)',
       icon: 'keep',
       quickLaunch: true,
