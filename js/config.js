@@ -121,7 +121,7 @@ const CONFIG = {
     },
     {
       category: 'Programming',
-      name: 'Admin-Remy',
+      name: 'Remy's Admin',
       key: 'R',
       url: 'https://me.remy.coffee/login',
       color: 'linear-gradient(135deg, #33373A, #484949)',
