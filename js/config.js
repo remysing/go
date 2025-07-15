@@ -160,7 +160,7 @@ const CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Fun',
+      category: 'Connect',
       name: 'Reddit',
       key: 'r',
       url: 'https://reddit.com',
@@ -170,7 +170,7 @@ const CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Fun',
+      category: 'Connect',
       name: 'Netflix',
       key: 'n',
       url: 'https://www.netflix.com',
@@ -179,7 +179,7 @@ const CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Fun',
+      category: 'Connect',
       name: 'Spotify',
       key: 's',
       url: 'https://open.spotify.com/',
@@ -189,7 +189,7 @@ const CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'Fun',
+      category: 'Connect',
       name: 'Twitch',
       key: 'tw',
       url: 'https://www.twitch.tv',
