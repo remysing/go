@@ -150,13 +150,13 @@ const CONFIG = {
 
 
     {
-      category: 'Fun',
-      name: 'YouTube',
-      key: 'y',
-      url: 'https://youtube.com',
+      category: 'Connect',
+      name: 'Proton',
+      key: 'p',
+      url: 'https://mail.proton.me',
       search: '/results?search_query={}',
       color: 'linear-gradient(135deg, #cd201f, #cd4c1f)',
-      icon: 'youtube',
+      icon: 'mail',
       quickLaunch: false,
     },
     {
