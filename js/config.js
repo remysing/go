@@ -152,7 +152,7 @@ const CONFIG = {
       category: 'Programming',
       name: 'Instapaper',
       key: 'I',
-      url: 'https://www.instapaper.com/user/login?next=/user',
+      url: 'https://www.instapaper.com/u',
       color: 'linear-gradient(135deg, #33373A, #484949)',
       icon: 'keep',
       quickLaunch: true,
