@@ -72,7 +72,7 @@ const CONFIG = {
       category: 'General',
       name: 'TWR',
       key: 't',
-      url: 'https://trainwithramnik.com',
+      url: 'https://blog.remy.coffee/twr',
       color: '#7289da',
       icon: 'w3',
       quickLaunch: false,
