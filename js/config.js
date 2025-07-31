@@ -199,9 +199,9 @@ const CONFIG = {
     },
     {
       category: 'Connect',
-      name: 'Spotify',
+      name: 'Booky',
       key: 's',
-      url: 'https://accounts.spotify.com/en-GB/login',
+      url: 'https://booky.io',
       search: '/search/{}',
       color: '#1dd35e',
       icon: 'spotify',
