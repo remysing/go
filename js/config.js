@@ -201,7 +201,7 @@ const CONFIG = {
       category: 'Connect',
       name: 'Booky',
       key: 's',
-      url: 'https://booky.io',
+      url: 'https://booky.io/extension/add?url=about:blank&name=&note=',
       search: '/search/{}',
       color: '#1dd35e',
       icon: 'spotify',
