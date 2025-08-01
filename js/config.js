@@ -36,7 +36,7 @@ const CONFIG = {
       category: 'General',
       name: 'Bookmark',
       key: 'bo',
-      url: 'https://save.remy.coffee/login',
+      url: 'https://booky.io/extension/open',
       color: '#5682a3',
       icon: 'w3',
       quickLaunch: false,
